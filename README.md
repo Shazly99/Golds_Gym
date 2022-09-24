@@ -1,4 +1,4 @@
-# Build and Deploy a Modern React 18 Fitness Exercises App With APIs | Golds Gym
+# Build and Deploy a Modern React 18 and Material-Ui Fitness Exercises App With APIs | Golds Gym 
 # Home Page
 
 ![screencapture-golds-gym-8svh-vercel-app-2022-09-24-04_16_35 (1)](https://user-images.githubusercontent.com/57854391/192076234-e7efe616-26ea-4609-9054-e3c7447b7d5e.png) 
