@@ -1,4 +1,4 @@
-# React Fitness Application using Material-Ui 
+#  Fitness Application by React.Js and  Material-Ui 
 
 # Home Page
 
