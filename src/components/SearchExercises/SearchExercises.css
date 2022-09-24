@@ -1,0 +1,21 @@
+.bodyPart-card {
+  transform: scale(1, 1);
+  transition: 0.3s all ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.exercise-card:hover,
+.bodyPart-card:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.react-horizontal-scrolling-menu--inner-wrapper ::-webkit-scrollbar {
+  display: none !important;
+}
+
+.react-horizontal-scrolling-menu--scroll-container {
+  background-color: white !important;
+}/*# sourceMappingURL=SearchExercises.css.map */

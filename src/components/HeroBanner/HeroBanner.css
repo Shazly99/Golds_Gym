@@ -1,0 +1,27 @@
+.app_btn {
+  margin-top: 45px;
+  text-decoration: none;
+  width: 200px;
+  text-align: center;
+  background-color: #FF2625;
+  padding: 14px;
+  font-size: 22px;
+  color: white;
+  border-radius: 5px;
+  text-transform: none;
+}
+
+.hero-banner-img {
+  position: absolute;
+  right: 40px;
+  top: 0px;
+  width: 700px;
+  height: 900px;
+  margin-top: -330px;
+}
+
+@media screen and (max-width: 1200px) {
+  .hero-banner-img {
+    display: none;
+  }
+}/*# sourceMappingURL=HeroBanner.css.map */
